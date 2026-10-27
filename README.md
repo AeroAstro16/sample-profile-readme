@@ -11,8 +11,8 @@ _I am currently a junior in college, I work at Michaels, and I love cars._
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 [![Cars](https://img.shields.io/badge/Cars-E10600?logo=formula1&logoColor=white)](http://formula1.com/)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<AeroAstro16>)
+[![Cars](https://img.shields.io/badge/Cars-E10600?logo=formula1&logoColor=white)](http://formula1.com/)
 
 _"You only live life once, and enjoy life!"_
 
