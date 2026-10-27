@@ -17,5 +17,3 @@ _I am currently a junior in college, I work at Michaels, and I love cars._
 _"You only live life once, and enjoy life!"_
 
 
-## 🎉 Interests
-
